@@ -1,0 +1,11 @@
+# ---- personal files: stay on your computer, never go to GitHub ----
+config.private.js
+media/photos/*
+media/voice/*
+media/songs/*
+media/memes/*
+# keep the instruction files in each folder
+!media/*/README.md
+
+.DS_Store
+Thumbs.db

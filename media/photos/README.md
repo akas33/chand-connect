@@ -8,5 +8,6 @@ Drop photos here with **exactly these names** (jpg). Square, face in the centre 
 | `him.jpg` | Inside the moon she finds in the game |
 | `together.jpg` | Top of the Vachan Patra |
 | `last-year.jpg` | The "2025" panel |
+| `her2.jpg` | Her photo on his phone in the "2026" panel |
 
 Missing a photo? No problem, the cartoon shows instead.

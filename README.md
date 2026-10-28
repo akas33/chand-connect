@@ -3,6 +3,8 @@
 A funny, sweet, animated Karwa Chauth film for couples who are far apart.
 Make it yours in about **10 minutes**, with no coding. Send one link, and they see everything.
 
+**Inside:** a 6 AM sleep-vs-phone scene · a samosa villain (she chooses what happens) · "meanwhile" at his office · katha · **🖐 Mehendi Mein Naam**, a game to find his name hidden in her mehendi · her cheesy lines in front of family · your special memory · last year vs. this year · **🦷 Bite Mode**, a tap game with a golden tooth, dodges and combos · **🌙 Chand Dhoondo**, a game to find the real moon among fake ones · a Hindi-Telugu **Vachan Patra** with WhatsApp buttons · a one-tap **🎬 Insta Reel**.
+
 ---
 
 ## ✅ 3 steps
@@ -19,6 +21,7 @@ Click the green **Code** button → **Download ZIP**, then unzip it on your comp
 | `him.jpg` | your photo (appears inside the moon 🌕) |
 | `together.jpg` | the two of you |
 | `last-year.jpg` | last year's Karwa Chauth |
+| `her2.jpg` | another photo of her (shows on his phone in the 2026 panel) |
 
 Don't have one? Skip it. A cartoon shows instead.
 
@@ -71,7 +74,7 @@ The voice note is included. YouTube songs can't be recorded, so put an mp3 in `m
 
 **Memes or GIFs:** put the file in `media/memes/` and add it to `media` in `config.js`, e.g.
 `{ scene: "villain", type: "image", src: "media/memes/samosa.gif", caption: "Main villain" }`
-Scenes: `subah, villain, meanwhile, katha, cheesy, memory, years, game`.
+Scenes: `subah, villain, meanwhile, katha, mehendi, cheesy, memory, years, bite, game`.
 
 **Keep your number out of `config.js`:** copy `config.private.example.js` to `config.private.js` and put private settings there. It's ignored by git.
 

@@ -14,7 +14,8 @@ window.CONFIG = {
   memoryPlace: "cognizant",         // the place in your special memory (shows on the building)
   cheesyLine: "Mummy ji, aapka beta chand se zyada chamakta hai ✨", // a line she says to make you shy
   song: "",
-  herCap: true,                     // true = her cartoon wears a backwards cap 🧢 · false = no cap                         // YouTube link of your song, e.g. "https://www.youtube.com/watch?v=XXXXXXXXXXX"
+  herCap: true,                     // true = her cartoon wears a backwards cap 🧢 · false = no cap
+  capScenes: ["villain", "cheesy"], // cap only in these scenes                         // YouTube link of your song, e.g. "https://www.youtube.com/watch?v=XXXXXXXXXXX"
   /* └───────────────────────────────────────────────────────────────┘ */
 
   /* photos & voice: drop files with THESE exact names. Missing = cartoon shows instead. */
@@ -22,7 +23,8 @@ window.CONFIG = {
     her:      "media/photos/her.jpg",
     him:      "media/photos/him.jpg",
     together: "media/photos/together.jpg",
-    lastYear: "media/photos/last-year.jpg"
+    lastYear: "media/photos/last-year.jpg",
+    her2:     "media/photos/her2.jpg"
   },
   voiceNote: "media/voice/moon.mp3",
 
@@ -73,6 +75,8 @@ window.CONFIG = {
       after:  ["2026", "Ab mera chand mobile pe hai…", "…aur tum asli chand dekhogi. 🌙"],
       twist:  "Ulta ho gaya sab. Bas pyaar wahi."
     },
+    mehendi: ["Shaadi mein dulhe ko naam dhoondhna padta hai…", "Aaj ulta. {HER}, dhoondo! 🖐🔍"],
+    bite:    ["Game time! 🦷", "{HER} ka favourite kaam: {HIM} ko kaatna.", "20 second. Jitna kaat sako. 😈"],
     game:   ["8:15 PM. Chand gayab. 🌫️", "Dhoondo, {HER}. (Nakli chand se bachna.)"],
     found:  ["ASLI CHAND MIL GAYA! 🌕", "Aur us paar?", "{HIM}. Obviously. 😎", "Agle saal saath honge. Pehla ghoont, mere haath se. ❤️"]
   },
